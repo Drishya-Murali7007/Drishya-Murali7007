@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Drishya 👋
 
-<!--
-**Drishya-Murali7007/Drishya-Murali7007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student Developer | 🌱 Learning & Building | ✨ Creative at heart
+I'm a student developer who enjoys building projects, learning new technologies, and turning ideas into working things. 🌸
 
-Here are some ideas to get you started:
+### 🛠️ Tech I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java • Python • JavaScript • TypeScript • React • Next.js • Node.js • MongoDB
+
+### 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Next.js
+- Building better projects 🚀
+
+- ### 🚀 Featured Projects
+
+🎬 **MyTube** — A college-focused educational video platform.
+🎬 **JULIA-- the talking agent** — AI talking agent designed to enable natural, real-time voice conversations.[ under construction ]
+🎬 **AI Study Pal** — A fully python based application designed to help students manage their schedules and study materials .
+
+💻 **More projects coming soon...**
