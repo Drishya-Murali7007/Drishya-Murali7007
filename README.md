@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./jh.png" alt="Drishya GitHub Banner" width="100%">
+</p>
 # Hi, I'm Drishya 👋
 
 💻 Student Developer | 🌱 Learning & Building | ✨ Creative at heart
