@@ -4,7 +4,7 @@
 
 # Hi, I'm Drishya 👋
 
-### 💻 Student Developer · 🎮 Gamer · 🌸 Creative at Heart
+### 💻 Student Developer · 🎮 Coder & Gamer · 🌸 Creative at Heart
 
 <p>
   <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=ff69b4">
