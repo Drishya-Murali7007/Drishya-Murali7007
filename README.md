@@ -116,14 +116,4 @@ A fully Python-based application designed to help students manage their schedule
 
 </div>
 
-## 🎀 Random Developer Energy
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true" width="500"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-
 </div>
