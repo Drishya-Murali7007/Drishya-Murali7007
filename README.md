@@ -62,7 +62,7 @@ I'm a student developer who enjoys building projects, learning new technologies,
 
 ### 🎬 MyTube
 
-A college-focused educational video platform.
+A youtube inspired video streaming platform.
 
 **Tech:** `Next.js` `React` `Node.js` `Express` `MongoDB`
 
