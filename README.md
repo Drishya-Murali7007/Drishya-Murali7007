@@ -116,18 +116,6 @@ A fully Python-based application designed to help students manage their schedule
 
 </div>
 
----
-
-## 🐍 My Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Drishya-Murali7007/Drishya-Murali7007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
 ## 🎀 Random Developer Energy
 
 <div align="center">
